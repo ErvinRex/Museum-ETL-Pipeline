@@ -1,0 +1,1 @@
+rm consume_logs.txt
